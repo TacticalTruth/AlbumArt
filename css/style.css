@@ -74,6 +74,12 @@ header h2{
     color: rgb(34, 34, 34);
 }
 
+.AltArtHeader{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
 .HIDE{
     display: none;
 }
