@@ -38,6 +38,11 @@ header h2{
     font-size: 20px;
 }
 
+header h3{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
 .gallery{
     display: flex;
     flex-wrap: wrap;
